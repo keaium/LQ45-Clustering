@@ -1,46 +1,46 @@
-Kode,Kode YF,Nama Saham
-ADHI,ADHI.JK,Adhi Karya (Persero) Tbk.
-ADRO,ADRO.JK,Adaro Energy Tbk.
-AKRA,AKRA.JK,AKR Corporindo Tbk.
-ANTM,ANTM.JK,Aneka Tambang Tbk.
-ASII,ASII.JK,Astra International Tbk.
-BBCA,BBCA.JK,Bank Central Asia Tbk.
-BBNI,BBNI.JK,Bank Negara Indonesia (Persero) Tbk.
-BBRI,BBRI.JK,Bank Rakyat Indonesia (Persero) Tbk.
-BBTN,BBTN.JK,Bank Tabungan Negara (Persero) Tbk.
-BMRI,BMRI.JK,Bank Mandiri (Persero) Tbk.
-BRPT,BRPT.JK,Barito Pacific Tbk.
-BSDE,BSDE.JK,Bumi Serpong Damai Tbk.
-CPIN,CPIN.JK,Charoen Pokphand Indonesia Tbk.
-ELSA,ELSA.JK,Elnusa Tbk.
-ERAA,ERAA.JK,Erajaya Swasembada Tbk.
-EXCL,EXCL.JK,XL Axiata Tbk.
-GGRM,GGRM.JK,Gudang Garam Tbk.
-HMSP,HMSP.JK,H.M. Sampoerna Tbk.
-ICBP,ICBP.JK,Indofood CBP Sukses Makmur Tbk.
-INCO,INCO.JK,Vale Indonesia Tbk.
-INDF,INDF.JK,Indofood Sukses Makmur Tbk.
-INDY,INDY.JK,Indika Energy Tbk.
-INKP,INKP.JK,Indah Kiat Pulp & Paper Tbk.
-INTP,INTP.JK,Indocement Tunggal Prakarsa Tbk.
-ITMG,ITMG.JK,Indo Tambangraya Megah Tbk.
-JSMR,JSMR.JK,Jasa Marga (Persero) Tbk.
-KLBF,KLBF.JK,Kalbe Farma Tbk.
-LPPF,LPPF.JK,Matahari Department Store Tbk.
-MEDC,MEDC.JK,Medco Energi Internasional Tbk.
-MNCN,MNCN.JK,Media Nusantara Citra Tbk.
-PGAS,PGAS.JK,Perusahaan Gas Negara (Persero) Tbk.
-PTBA,PTBA.JK,Bukit Asam Tbk.
-PTPP,PTPP.JK,PP (Persero) Tbk.
-PWON,PWON.JK,Pakuwon Jati Tbk.
-SCMA,SCMA.JK,Surya Citra Media Tbk.
-SMGR,SMGR.JK,Semen Indonesia (Persero) Tbk.
-SRIL,SRIL.JK,Sri Rejeki Isman Tbk.
-TKIM,TKIM.JK,Pabrik Kertas Tjiwi Kimia Tbk.
-TLKM,TLKM.JK,Telekomunikasi Indonesia (Persero) Tbk.
-TPIA,TPIA.JK,Chandra Asri Petrochemical Tbk.
-UNTR,UNTR.JK,United Tractors Tbk.
-UNVR,UNVR.JK,Unilever Indonesia Tbk.
-WIKA,WIKA.JK,Wijaya Karya (Persero) Tbk.
-WSBP,WSBP.JK,Waskita Beton Precast Tbk.
-WSKT,WSKT.JK,Waskita Karya (Persero) Tbk.
+Kode,Kode YF,Close,Nama Saham
+ADHI,ADHI.JK,ADHI.JK.Close,Adhi Karya (Persero) Tbk.
+ADRO,ADRO.JK,ADRO.JK.Close,Adaro Energy Tbk.
+AKRA,AKRA.JK,AKRA.JK.Close,AKR Corporindo Tbk.
+ANTM,ANTM.JK,ANTM.JK.Close,Aneka Tambang Tbk.
+ASII,ASII.JK,ASII.JK.Close,Astra International Tbk.
+BBCA,BBCA.JK,BBCA.JK.Close,Bank Central Asia Tbk.
+BBNI,BBNI.JK,BBNI.JK.Close,Bank Negara Indonesia (Persero) Tbk.
+BBRI,BBRI.JK,BBRI.JK.Close,Bank Rakyat Indonesia (Persero) Tbk.
+BBTN,BBTN.JK,BBTN.JK.Close,Bank Tabungan Negara (Persero) Tbk.
+BMRI,BMRI.JK,BMRI.JK.Close,Bank Mandiri (Persero) Tbk.
+BRPT,BRPT.JK,BRPT.JK.Close,Barito Pacific Tbk.
+BSDE,BSDE.JK,BSDE.JK.Close,Bumi Serpong Damai Tbk.
+CPIN,CPIN.JK,CPIN.JK.Close,Charoen Pokphand Indonesia Tbk.
+ELSA,ELSA.JK,ELSA.JK.Close,Elnusa Tbk.
+ERAA,ERAA.JK,ERAA.JK.Close,Erajaya Swasembada Tbk.
+EXCL,EXCL.JK,EXCL.JK.Close,XL Axiata Tbk.
+GGRM,GGRM.JK,GGRM.JK.Close,Gudang Garam Tbk.
+HMSP,HMSP.JK,HMSP.JK.Close,H.M. Sampoerna Tbk.
+ICBP,ICBP.JK,ICBP.JK.Close,Indofood CBP Sukses Makmur Tbk.
+INCO,INCO.JK,INCO.JK.Close,Vale Indonesia Tbk.
+INDF,INDF.JK,INDF.JK.Close,Indofood Sukses Makmur Tbk.
+INDY,INDY.JK,INDY.JK.Close,Indika Energy Tbk.
+INKP,INKP.JK,INKP.JK.Close,Indah Kiat Pulp & Paper Tbk.
+INTP,INTP.JK,INTP.JK.Close,Indocement Tunggal Prakarsa Tbk.
+ITMG,ITMG.JK,ITMG.JK.Close,Indo Tambangraya Megah Tbk.
+JSMR,JSMR.JK,JSMR.JK.Close,Jasa Marga (Persero) Tbk.
+KLBF,KLBF.JK,KLBF.JK.Close,Kalbe Farma Tbk.
+LPPF,LPPF.JK,LPPF.JK.Close,Matahari Department Store Tbk.
+MEDC,MEDC.JK,MEDC.JK.Close,Medco Energi Internasional Tbk.
+MNCN,MNCN.JK,MNCN.JK.Close,Media Nusantara Citra Tbk.
+PGAS,PGAS.JK,PGAS.JK.Close,Perusahaan Gas Negara (Persero) Tbk.
+PTBA,PTBA.JK,PTBA.JK.Close,Bukit Asam Tbk.
+PTPP,PTPP.JK,PTPP.JK.Close,PP (Persero) Tbk.
+PWON,PWON.JK,PWON.JK.Close,Pakuwon Jati Tbk.
+SCMA,SCMA.JK,SCMA.JK.Close,Surya Citra Media Tbk.
+SMGR,SMGR.JK,SMGR.JK.Close,Semen Indonesia (Persero) Tbk.
+SRIL,SRIL.JK,SRIL.JK.Close,Sri Rejeki Isman Tbk.
+TKIM,TKIM.JK,TKIM.JK.Close,Pabrik Kertas Tjiwi Kimia Tbk.
+TLKM,TLKM.JK,TLKM.JK.Close,Telekomunikasi Indonesia (Persero) Tbk.
+TPIA,TPIA.JK,TPIA.JK.Close,Chandra Asri Petrochemical Tbk.
+UNTR,UNTR.JK,UNTR.JK.Close,United Tractors Tbk.
+UNVR,UNVR.JK,UNVR.JK.Close,Unilever Indonesia Tbk.
+WIKA,WIKA.JK,WIKA.JK.Close,Wijaya Karya (Persero) Tbk.
+WSBP,WSBP.JK,WSBP.JK.Close,Waskita Beton Precast Tbk.
+WSKT,WSKT.JK,WSKT.JK.Close,Waskita Karya (Persero) Tbk.
